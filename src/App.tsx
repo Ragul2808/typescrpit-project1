@@ -23,7 +23,7 @@ const App: React.FC = () => {
           {description} React concepts and patterns for building robust applications.
         </p>
       </header>
-
+  
       <main>
         <h2>Time to get started</h2>
       </main>
